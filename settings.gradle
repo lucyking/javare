@@ -1,1 +1,1 @@
-include ':app', ':libalpha'
+include ':app', ':libalpha', ':happynumber'
